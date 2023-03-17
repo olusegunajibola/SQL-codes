@@ -1,2 +1,2 @@
 # SQL-codes
-SQL Queries from SQL for Data Analysis Course
+SQL Queries from SQL for Data Analysis Udacity Course
